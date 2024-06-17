@@ -5,3 +5,4 @@ Para utilizar basta colocar o arquivo na pasta 'SORfiles' e passar o nome do arq
 
 Bibliotecas adicionais utilizadas
 - pyotdr
+- matplotlib
